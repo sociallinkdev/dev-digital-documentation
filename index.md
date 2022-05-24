@@ -54,7 +54,10 @@ url: https://dev.academicwriterdirect.com
 #### APA API Urls
 
 IDEM-ENV-Domain(Dev) https://mydev.apa.org<br>
-IDEM-API-DOMAIN https://idemapidev.apa.org
+IDEM-API-DOMAIN(Dev) https://idemapidev.apa.org
+
+Use the link below to get setup using WPEngine with git and deploying with SSH.
+[Git Version Control Center](https://wpengine.com/support/git/)
 
 <!-- Test url: https://test.academicwriterdirect.com
 Live url: https://academicwriterdirect.com -->
