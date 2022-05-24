@@ -12,7 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
@@ -35,3 +37,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## APA Deployment Strategy Documentation
+
+### Purpose
+
+This document covers the scope and details of deploying updates to the Academic Writer website via WPEngine and SSH
+
+### References
+
+Social Link Dev
+url: https://dev.academicwriterdirect.com
+
+APA API Urls
+IDEM-ENV-Domain(Dev) https://mydev.apa.org
+IDEM-API-DOMAIN https://idemapidev.apa.org
+
+<!-- Test url: https://test.academicwriterdirect.com
+Live url: https://academicwriterdirect.com -->
