@@ -47,10 +47,12 @@ This document covers the scope and details of deploying updates to the Academic 
 
 ### References
 
-Social Link Dev<br>
+#### Social Link Dev
+
 url: https://dev.academicwriterdirect.com
 
-APA API Urls<br>
+#### APA API Urls
+
 IDEM-ENV-Domain(Dev) https://mydev.apa.org<br>
 IDEM-API-DOMAIN https://idemapidev.apa.org
 
